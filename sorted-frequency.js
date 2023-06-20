@@ -18,6 +18,7 @@ function sortedFrequency(arr, num) {
             return top - bottom;
         }
     }
+    return -1
 }
 
 module.exports = sortedFrequency
